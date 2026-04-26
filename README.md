@@ -4,7 +4,7 @@
 ## I'm Atasha.
 *A 3rd-year Information Systems student majoring in Business Analytics.*
 
-## *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
+### *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 
 </div>
 
