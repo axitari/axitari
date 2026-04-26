@@ -6,6 +6,8 @@
 
 </div>
 
+*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
+
 ---
 
 ### ✦ What I'm Currently Working On
@@ -35,7 +37,9 @@
 
 ---
 
-### 🌙 Philosophy
+⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
+
+### ⏾⋆.˚ Philosophy
 
 > “Under the night sky, the moon and the stars move in their own time—  
 > just like the systems built around them, everything follows its own pace.”
