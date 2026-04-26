@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bonjour | 안녕하세요 | Hello! 
+# Bonjour | 안녕하세요 | Hola! 
 ## I'm Atasha.
 *A 3rd-year Information Systems student majoring in Business Analytics.*
 
@@ -41,5 +41,4 @@
 
 ### ⏾⋆.˚ Philosophy
 
-> “Under the night sky, the moon and the stars move in their own time—  
-> just like the systems built around them, everything follows its own pace.”
+> “Under the night sky, the moon and the stars move in their own time—just like the systems built around them, everything follows its own pace.”
